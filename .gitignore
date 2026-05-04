@@ -1,0 +1,40 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio and editor files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+.nuget/
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.temp
+*~
+
+# Logs, dumps
+*.log
+*.stackdump
+*.dmp
+
+# Test results / coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Local settings
+appsettings.*.json
